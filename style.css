@@ -1,0 +1,74 @@
+.heading{
+    color:red;
+}
+.bg{
+    background-color:black;
+    height:100vh;
+    background-size:cover;
+    
+}
+#nav1{
+    font-family:"Roboto";
+    color:white;
+    font-size:30px;
+}
+#nav2{
+    font-family:"Roboto";
+    color:white;
+    font-size:30px;
+}
+#nav3{
+    font-family:"Roboto";
+    color:white;
+    font-size:30px;
+}
+#nav4{
+    font-family:"Roboto";
+    color:white;
+    font-size:30px;
+}
+.one{
+    margin-left:50px;
+}
+.two{
+    margin-left:50px;
+    margin-right:40px;
+}
+.detailed {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24pxpx;
+    height:500px;
+    
+  }
+.head{
+    color:white;
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+}
+.bg1{
+    background-color:black;
+    height:100vh;
+    
+    padding:20px;
+}
+.image{
+    height:300px;
+    margin-right:20px;
+}
+.para{
+    font-family: "Roboto";
+    color:white;
+    text-align:center;
+    margin-top:10px;
+    font-weight:bold;
+}
+.bg2{
+    background-color:black;
+    height:100vh;
+    
+    padding:10px;
+    
+}
